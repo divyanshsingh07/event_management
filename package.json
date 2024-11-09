@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.27.5",
+    "@clerk/nextjs": "^4.31.6",
     "@hookform/resolvers": "^3.3.2",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-checkbox": "^1.0.4",
@@ -24,8 +24,8 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.294.0",
-    "mongodb": "^6.3.0",
-    "mongoose": "^8.0.3",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
     "next": "14.0.4",
     "query-string": "^8.1.0",
     "react": "^18",
